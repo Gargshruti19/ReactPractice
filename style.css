@@ -23,7 +23,7 @@
 			rgba(238, 255, 0, 0.183),
 			rgba(0, 0, 0, 0.5)
 		),
-		url("https://img.freepik.com/free-photo/muscular-surfer-rides-barrel-tropical-paradise-generative-ai_188544-33407.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1704499200&semt=sph");
+		url(./assets/bg.avif);
 	background-size: cover;
 	background-position: center;
 	position: relative;

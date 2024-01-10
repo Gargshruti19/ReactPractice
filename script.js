@@ -2,6 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import logoImage from "./assets/logo.png";
 import copyrightImage from "./assets/copyright.png";
+import accountImage from "./assets/acc.png";
+
 
 const HeaderComponent = () => (
 	<div className="container">
@@ -12,7 +14,7 @@ const HeaderComponent = () => (
 		<img
 			id="user"
 			alt="user-icon"
-			src="https://cdn-icons-png.flaticon.com/512/9131/9131529.png"
+			src={accountImage}
 		></img>
 	</div>
 );
